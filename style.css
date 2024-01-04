@@ -17,14 +17,15 @@
      position:absolute;
    
    }
-   .form:hover{
-    box-shadow:2px 2px 3px black,-2px -2px 2px black;
-   }
+   
    input{
     width:100%;
     margin:10px 0;
     padding:10px;
     border-radius:5px;
+    border:1px solid rgba(151, 150, 148, 0.774);
+    outline:none;
+    
    }
    .btn-2{
      background:#4267B2;
